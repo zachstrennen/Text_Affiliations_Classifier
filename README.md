@@ -1,1 +1,1 @@
-Code for an XGBoost classifier that uses to Jaro-Winkler scores to determine if words in a vector roughly match eachother. The code outputs the indices inn which a match occurs.
+Code for an XGBoost classifier that uses to Jaro-Winkler scores to determine if words in a vector roughly match eachother. The code outputs the indices in which a match occurs. The training data were created manually yet still yeild useful results.
